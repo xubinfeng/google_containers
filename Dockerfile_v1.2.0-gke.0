@@ -1,0 +1,2 @@
+From gke.gcr.io/csi-node-driver-registrar:v1.2.0-gke.0
+MAINTAINER xu.binfeng <xu.binfeng@qq.com>
