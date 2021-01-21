@@ -1,2 +1,2 @@
-From gcr.io/google-containers/etcd-amd64:3.4.13
+From gcr.io/google-containers/etcd-amd64:3.4.4
 MAINTAINER xu.binfeng <xu.binfeng@qq.com>
