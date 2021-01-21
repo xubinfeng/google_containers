@@ -1,2 +1,2 @@
-From k8s.gcr.io/kube-proxy:v1.19.6
+From quay.io/coreos/flannel:v0.13.0
 MAINTAINER xu.binfeng <xu.binfeng@qq.com>
